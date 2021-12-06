@@ -1,4 +1,3 @@
-//usecase 5
 import scala.util.matching.Regex
 import scala.io.StdIn._
 object RegularExpression1 {
