@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//use case1
+>>>>>>> Usecase1
 import scala.util.matching.Regex
 import scala.io.StdIn._
 object RegularExpression1 {
@@ -14,6 +18,7 @@ object RegularExpression1 {
       println("FirstName is not valid")
     }
   }
+<<<<<<< HEAD
 }
 //usecase2
 import scala.util.matching.Regex
@@ -39,3 +44,6 @@ object RegularExpression1 {
     }
   }
 }
+=======
+}
+>>>>>>> Usecase1
